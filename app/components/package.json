@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-textcomponent",
+  "version": "1.0.0",
+  "description": "A React component for handling text inputs with optional icons and focus management.",
+  "main": "components/TextComponent.jsx",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "next": "^13.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Write tests! -> run `npm test`\" && exit 0"
+  },
+  "files": [
+    "components"
+  ],
+  "author": "Umamahesh",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "nextjs",
+    "Input-component"
+  ],
+  "homepage": "https://github.com/yourusername/nextjs-textcomponent",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nextjs-textcomponent.git"
+  }
+}
